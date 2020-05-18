@@ -28,4 +28,4 @@ A pytorch-based bounding box technique with RetinaNet architecture and Resnet en
 PDF files converted to images for use in a bounding box annotation software such as VGG Image Annotator.  
 Ensure you create a folder path object such as : path = Path('/content/drive/My Drive/comp_vision/object_detection1') and create two subfolders in it: one for your training/validation images, which I have callsed train_sample, and another folder called annotations, which contain the coco format JASON file for your annotations that you modified in the code to adapt to RetinaNet model  
 
-
+Data folder is not included in this repository for space reasons, but the images included in the notebook are self explanatory
