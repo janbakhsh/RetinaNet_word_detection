@@ -5,8 +5,8 @@ The objective of this project/product was to create a model that can utilize com
 # Approach
 
 A pytorch-based bounding box technique with RetinaNet architecture and Resnet encoder is utilized for this project  
-## Steps  
-1-  
+## Steps
+1- 
 
 
 
